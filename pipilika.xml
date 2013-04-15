@@ -1,0 +1,15 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http:/www.mozilla.org/2006/browser/search/">
+<ShortName>Pipilika</ShortName>
+<Description>Search Bangla Web with Pipilika</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16" type="image/png">data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH3QQPETEXl/1Y9QAAAXxJREFUOMuNk8FLVFEUxn/nvOeDYkIHIbBRLF2pibkO2vQHRNA2aNmibbvW/hnisoUbV23aunAlKEKkGDH6osioaRiZeXPv10JHahhf79tczuE7P8659x4Y0onzsOnUB3EOTyiR/1OcgDk7Zjwa5Ax6+ZDvWsB0gEafviKdE6P2JSGN8AtjNjcygHwIZaOoP8HazjpQdzEOuOAH8KYhDprATBkgdyYkdjvm7e0xizPBTxdCMRUhM2O1EemNHGGgmBId9C6L3RfdMPm4X9SnyDYwUuD5tXdwNZcuzq5IwA8S7N7bpDhyEQXL/wUMJHDMvxr0PgbLgGBwqzIAMIQBNxbRmS7ioipAQTioJtR+hnUu/a1KAIHNu32AMB9grYXfx3DB8d++tAyw1OUT8BL4/tv6m4jUnG1CBQCgCdPcqROBp0QeyPjcCOxX6gCQxArw3kQmODfxGuAbcLsUYBQymi5eCVZl3HXYuhPZOwMmy97tcPFqM2/uzw598RH+P02Ph5YmU6CwAAAAAElFTkSuQmCC</Image>
+<Url type="text/html" method="get" template="http://pipilika.com/search">
+  <Param name="q" value="{searchTerms}"/>
+</Url>
+<Url type="application/opensearchdescription+xml"
+     rel="self"
+     template="http://aniruddha-adhikary.github.io/pipilika-opensearch/pipilika.xml"/>
+<moz:SearchForm>http://pipilika.com</moz:SearchForm>
+</OpenSearchDescription>
