@@ -10,6 +10,6 @@ iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMA
 </Url>
 <Url type="application/opensearchdescription+xml"
      rel="self"
-     template="http://aniruddha-adhikary.github.io/pipilika-opensearch/pipilika.xml"/>
+     template="http://pipilika.adhikary.net/pipilika.xml"/>
 <moz:SearchForm>http://pipilika.com</moz:SearchForm>
 </OpenSearchDescription>
