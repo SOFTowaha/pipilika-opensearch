@@ -8,5 +8,8 @@ iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMA
 <Url type="text/html" method="get" template="http://pipilika.com/search">
   <Param name="q" value="{searchTerms}"/>
 </Url>
+<Url type="application/opensearchdescription+xml"
+     rel="self"
+     template="http://pipilika.adhikary.net/pipilika.xml"/>
 <moz:SearchForm>http://pipilika.com</moz:SearchForm>
 </OpenSearchDescription>
